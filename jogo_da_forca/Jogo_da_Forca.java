@@ -1,10 +1,3 @@
-// Nome: Yago Vinicius Ferreira de Castro
-//Nro de matricula: 11721BCC020
-
-// Nome: Luis Gabriel Maximo
-//Nro de matricula: 11721BCC027
-
-
 package jogo_da_forca;
 
 import java.util.ArrayList;
