@@ -156,7 +156,7 @@ public class Jogo_da_Forca {
     
     public static void main(String[] args){
         int vida = 6;
-        String  palavra = "Buceta";
+        String  palavra = "Bacala";
        
         adivinhe(palavra, vida);          
     }
